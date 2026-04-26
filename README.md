@@ -2,6 +2,9 @@
 Criação de um agente chatbot, em um modelo de arquitetura conhecido por RAG AI.
 Essa ia foi feita pensando em uso empresarial e ainda se encontra em desenvolvimento.
 
+Por se tratar de uma versão publica coisas como as chaves de API e os PDF utilizados no
+desenvolvimento não se encontrarão nesse projeto.
+
 
 INFORMAÇÕES IMPORTANTES PARA FUNCIONAMENTO
 
